@@ -1,5 +1,4 @@
-# Resources
-Repository for high-quality reference materials
+# Repository for high-quality reference materials
 
 
 #### Many Models:
