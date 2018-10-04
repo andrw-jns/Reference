@@ -1,4 +1,4 @@
-# Reference
+# Resources
 Repository for high-quality reference materials
 
 
